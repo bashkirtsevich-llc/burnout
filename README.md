@@ -3,4 +3,4 @@
 
 Для работы требует наличие burnout.dll рядом с exe, см. исходник, как оно работает.
 
-![alt tag](https://raw.githubusercontent.com/OswaldMandus/Burnout/master/screen.png)
+![alt tag](https://bytebucket.org/bashkirtsevich/burnout/raw/585464a65968732942f729a8e9ee2aff23413551/screen.png)
